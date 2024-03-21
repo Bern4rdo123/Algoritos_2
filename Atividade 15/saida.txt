@@ -1,0 +1,13 @@
+O número 124 foi adicionado no vetor V1
+O número 1 foi adicionado no vetor V2
+O número 3 foi adicionado no vetor V2
+O número 2 foi adicionado no vetor V2
+v2  C: 3 - 2 - 1 - 
+v2  D: 3 - 2 - 1 - 
+O número 2 foi removido do vetor V2
+v2  C: 3 - 1 - 
+Total de elementos no vetor V2: 2
+O número 6 foi adicionado no vetor V2
+O número 8 foi adicionado no vetor V2
+Total de elementos no vetor V2: 4
+Media: 3.6

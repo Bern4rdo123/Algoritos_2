@@ -1,0 +1,13 @@
+adiciona v1 124
+adiciona v2 1
+adiciona v2 3
+adiciona v2 2
+mostra v2 C
+mostra v2 D
+remove v2 2
+mostra v2 C
+qtd v2
+adiciona v2 6
+adiciona v2 8
+qtd v2
+media v2
